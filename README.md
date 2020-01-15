@@ -5,7 +5,7 @@
 
 前端：脚手架工具 vue-cli@3.0
 
-后端：脚手架工具 koa-generator **狼叔-桑世龙**写的；（狼叔说：少抱怨，多思考，未来更美好）
+后端：脚手架工具 koa-generator 
 
 主体：**vue + vue-router + vuex + axios + scss + koa + mongodb + mongoose + vant**
 
